@@ -1,0 +1,5 @@
+"student_id","student_name","student_sex","student_major","student_class","student_age","student_passwd"
+"2121001","Alice","Women","Computer Science","1","20","password1"
+"2121002","Bob","Man","Engineering","2","21","password2"
+"2121003","Charlie","Man","Mathematics","3","19","password3"
+"2121004","Kid","Man","CS","3","20","password1"

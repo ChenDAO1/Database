@@ -1,0 +1,4 @@
+"teacher_id","teacher_name","teacher_sex","teacher_major","teacher_passwd","teacher_age"
+"238901","Dr. Smith","Man","Computer Science","teacherpass1","40"
+"254633","Prof. Johnson","Man","Engineering","teacherpass2","45"
+"324852","Dr. Brown","Women","Math","teacherpass3","38"
